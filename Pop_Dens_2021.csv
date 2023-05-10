@@ -1,0 +1,157 @@
+﻿drug_category,state,Year,ODs,score,Population
+Opioids,Alabama,2021,0,0,5039877
+Cocaine,Alabama,2021,0,0,5039877
+Psychostimulants_with_Abuse_Potential,Alabama,2021,0,0,5039877
+Opioids,Alaska,2021,1878,0.256321715,732673
+Cocaine,Alaska,2021,210,0.028662173,732673
+Psychostimulants_with_Abuse_Potential,Alaska,2021,1328,0.18125412,732673
+Opioids,Arizona,2021,23828,0.327473408,7276316
+Cocaine,Arizona,2021,2310,0.031746835,7276316
+Psychostimulants_with_Abuse_Potential,Arizona,2021,14440,0.198452074,7276316
+Opioids,Arkansas,2021,1016,0.033576887,3025891
+Cocaine,Arkansas,2021,170,0.00561818,3025891
+Psychostimulants_with_Abuse_Potential,Arkansas,2021,745,0.024620847,3025891
+Opioids,California,2021,82628,0.210582459,39237836
+Cocaine,California,2021,15843,0.040376844,39237836
+Psychostimulants_with_Abuse_Potential,California,2021,67585,0.172244463,39237836
+Opioids,Colorado,2021,13883,0.238865024,5812069
+Cocaine,Colorado,2021,2857,0.049156333,5812069
+Psychostimulants_with_Abuse_Potential,Colorado,2021,8027,0.138109166,5812069
+Opioids,Connecticut,2021,15993,0.443560387,3605597
+Cocaine,Connecticut,2021,5575,0.154620719,3605597
+Psychostimulants_with_Abuse_Potential,Connecticut,2021,1160,0.032172203,3605597
+Opioids,Delaware,2021,4986,0.496918428,1003384
+Cocaine,Delaware,2021,1969,0.196235938,1003384
+Psychostimulants_with_Abuse_Potential,Delaware,2021,599,0.059697982,1003384
+Opioids,District of Columbia,2021,4902,0.732964409,668791
+Cocaine,District of Columbia,2021,2548,0.380985988,668791
+Psychostimulants_with_Abuse_Potential,District of Columbia,2021,149,0.022279008,668791
+Opioids,Florida,2021,72573,0.33319211,21781128
+Cocaine,Florida,2021,25879,0.118813865,21781128
+Psychostimulants_with_Abuse_Potential,Florida,2021,19954,0.091611417,21781128
+Opioids,Georgia,2021,18149,0.16805305,10799566
+Cocaine,Georgia,2021,4667,0.0432147,10799566
+Psychostimulants_with_Abuse_Potential,Georgia,2021,9466,0.08765167,10799566
+Opioids,Hawaii,2021,978,0.067843499,1441553
+Cocaine,Hawaii,2021,169,0.011723468,1441553
+Psychostimulants_with_Abuse_Potential,Hawaii,2021,2213,0.153514994,1441553
+Opioids,Idaho,2021,1968,0.103528654,1900923
+Cocaine,Idaho,2021,0,0,1900923
+Psychostimulants_with_Abuse_Potential,Idaho,2021,1107,0.058234868,1900923
+Opioids,Illinois,2021,35295,0.278539134,12671469
+Cocaine,Illinois,2021,14036,0.11076853,12671469
+Psychostimulants_with_Abuse_Potential,Illinois,2021,5613,0.044296364,12671469
+Opioids,Indiana,2021,24324,0.357391325,6805985
+Cocaine,Indiana,2021,4328,0.063591089,6805985
+Psychostimulants_with_Abuse_Potential,Indiana,2021,10228,0.150279497,6805985
+Opioids,Iowa,2021,2819,0.088284693,3193079
+Cocaine,Iowa,2021,358,0.011211749,3193079
+Psychostimulants_with_Abuse_Potential,Iowa,2021,2149,0.067301811,3193079
+Opioids,Kansas,2021,4245,0.144654332,2934582
+Cocaine,Kansas,2021,699,0.023819406,2934582
+Psychostimulants_with_Abuse_Potential,Kansas,2021,2761,0.09408495,2934582
+Opioids,Kentucky,2021,22324,0.495055433,4509394
+Cocaine,Kentucky,2021,2475,0.054885424,4509394
+Psychostimulants_with_Abuse_Potential,Kentucky,2021,11213,0.248658689,4509394
+Opioids,Louisiana,2021,0,0,4624047
+Cocaine,Louisiana,2021,0,0,4624047
+Psychostimulants_with_Abuse_Potential,Louisiana,2021,0,0,4624047
+Opioids,Maine,2021,5787,0.421717082,1372247
+Cocaine,Maine,2021,1473,0.107342191,1372247
+Psychostimulants_with_Abuse_Potential,Maine,2021,1916,0.139625009,1372247
+Opioids,Maryland,2021,30725,0.498367512,6165129
+Cocaine,Maryland,2021,9736,0.157920459,6165129
+Psychostimulants_with_Abuse_Potential,Maryland,2021,1525,0.024735898,6165129
+Opioids,Massachusetts,2021,25692,0.367831337,6984723
+Cocaine,Massachusetts,2021,12481,0.178689978,6984723
+Psychostimulants_with_Abuse_Potential,Massachusetts,2021,2378,0.034045731,6984723
+Opioids,Michigan,2021,28801,0.286553991,10050811
+Cocaine,Michigan,2021,9578,0.095295793,10050811
+Psychostimulants_with_Abuse_Potential,Michigan,2021,5606,0.055776594,10050811
+Opioids,Minnesota,2021,7905,0.13850464,5707390
+Cocaine,Minnesota,2021,1230,0.021551007,5707390
+Psychostimulants_with_Abuse_Potential,Minnesota,2021,3721,0.065196175,5707390
+Opioids,Mississippi,2021,5819,0.197256578,2949965
+Cocaine,Mississippi,2021,929,0.031491899,2949965
+Psychostimulants_with_Abuse_Potential,Mississippi,2021,3429,0.116238667,2949965
+Opioids,Missouri,2021,18092,0.293311471,6168187
+Cocaine,Missouri,2021,2801,0.045410426,6168187
+Psychostimulants_with_Abuse_Potential,Missouri,2021,7805,0.126536371,6168187
+Opioids,Montana,2021,1162,0.105227793,1104271
+Cocaine,Montana,2021,0,0,1104271
+Psychostimulants_with_Abuse_Potential,Montana,2021,897,0.08123006,1104271
+Opioids,Nebraska,2021,0,0,1963692
+Cocaine,Nebraska,2021,0,0,1963692
+Psychostimulants_with_Abuse_Potential,Nebraska,2021,0,0,1963692
+Opioids,Nevada,2021,7624,0.242494333,3143991
+Cocaine,Nevada,2021,1196,0.038040821,3143991
+Psychostimulants_with_Abuse_Potential,Nevada,2021,5953,0.189345326,3143991
+Opioids,New Hampshire,2021,4127,0.297121942,1388992
+Cocaine,New Hampshire,2021,419,0.03016576,1388992
+Psychostimulants_with_Abuse_Potential,New Hampshire,2021,699,0.050324264,1388992
+Opioids,New Jersey,2021,30921,0.333663173,9267130
+Cocaine,New Jersey,2021,11263,0.121537089,9267130
+Psychostimulants_with_Abuse_Potential,New Jersey,2021,3333,0.035965828,9267130
+Opioids,New Mexico,2021,7834,0.370248365,2115877
+Cocaine,New Mexico,2021,1470,0.069474738,2115877
+Psychostimulants_with_Abuse_Potential,New Mexico,2021,5487,0.259325093,2115877
+Opioids,New York,2021,56469,0.284680619,19835913
+Cocaine,New York,2021,24348,0.12274706,19835913
+Psychostimulants_with_Abuse_Potential,New York,2021,6131,0.030908585,19835913
+Opioids,North Carolina,2021,35682,0.338180762,10551162
+Cocaine,North Carolina,2021,13796,0.130753371,10551162
+Psychostimulants_with_Abuse_Potential,North Carolina,2021,9261,0.087772323,10551162
+Opioids,North Dakota,2021,0,0,774948
+Cocaine,North Dakota,2021,0,0,774948
+Psychostimulants_with_Abuse_Potential,North Dakota,2021,0,0,774948
+Opioids,Ohio,2021,54445,0.462180997,11780017
+Cocaine,Ohio,2021,16156,0.13714751,11780017
+Psychostimulants_with_Abuse_Potential,Ohio,2021,15087,0.12807282,11780017
+Opioids,Oklahoma,2021,4381,0.109892067,3986639
+Cocaine,Oklahoma,2021,592,0.014849601,3986639
+Psychostimulants_with_Abuse_Potential,Oklahoma,2021,5508,0.138161494,3986639
+Opioids,Oregon,2021,7848,0.184826037,4246155
+Cocaine,Oregon,2021,1030,0.02425724,4246155
+Psychostimulants_with_Abuse_Potential,Oregon,2021,6061,0.142740903,4246155
+Opioids,Pennsylvania,2021,0,0,12964056
+Cocaine,Pennsylvania,2021,0,0,12964056
+Psychostimulants_with_Abuse_Potential,Pennsylvania,2021,0,0,12964056
+Opioids,Rhode Island,2021,4210,0.384260823,1095610
+Cocaine,Rhode Island,2021,2389,0.218052044,1095610
+Psychostimulants_with_Abuse_Potential,Rhode Island,2021,570,0.052025812,1095610
+Opioids,South Carolina,2021,19030,0.366616866,5190705
+Cocaine,South Carolina,2021,4576,0.088157582,5190705
+Psychostimulants_with_Abuse_Potential,South Carolina,2021,8163,0.157261875,5190705
+Opioids,South Dakota,2021,453,0.05059327,895376
+Cocaine,South Dakota,2021,0,0,895376
+Psychostimulants_with_Abuse_Potential,South Dakota,2021,482,0.053832133,895376
+Opioids,Tennessee,2021,33959,0.486852167,6975218
+Cocaine,Tennessee,2021,6396,0.091696059,6975218
+Psychostimulants_with_Abuse_Potential,Tennessee,2021,15799,0.226501881,6975218
+Opioids,Texas,2021,30139,0.102069426,29527941
+Cocaine,Texas,2021,13470,0.04561781,29527941
+Psychostimulants_with_Abuse_Potential,Texas,2021,21253,0.071975896,29527941
+Opioids,Utah,2021,5349,0.160246856,3337975
+Cocaine,Utah,2021,572,0.017136138,3337975
+Psychostimulants_with_Abuse_Potential,Utah,2021,3367,0.100869539,3337975
+Opioids,Vermont,2021,2314,0.358442926,645570
+Cocaine,Vermont,2021,1029,0.159394024,645570
+Psychostimulants_with_Abuse_Potential,Vermont,2021,339,0.052511734,645570
+Opioids,Virginia,2021,25135,0.290837805,8642274
+Cocaine,Virginia,2021,7868,0.091040853,8642274
+Psychostimulants_with_Abuse_Potential,Virginia,2021,6094,0.070513849,8642274
+Opioids,Washington,2021,17026,0.22001134,7738692
+Cocaine,Washington,2021,2268,0.029307278,7738692
+Psychostimulants_with_Abuse_Potential,Washington,2021,11533,0.149030353,7738692
+Opioids,West Virginia,2021,15222,0.853749301,1782959
+Cocaine,West Virginia,2021,1713,0.096076242,1782959
+Psychostimulants_with_Abuse_Potential,West Virginia,2021,9405,0.527493902,1782959
+Opioids,Wisconsin,2021,16094,0.272968981,5895908
+Cocaine,Wisconsin,2021,5263,0.089265301,5895908
+Psychostimulants_with_Abuse_Potential,Wisconsin,2021,3799,0.06443452,5895908
+Opioids,Wyoming,2021,729,0.125949589,578803
+Cocaine,Wyoming,2021,0,0,578803
+Psychostimulants_with_Abuse_Potential,Wyoming,2021,430,0.074291253,578803
+Opioids,USA,,,,
+Cocaine,USA,,,,
+Psychostimulants_with_Abuse_Potential,USA,,,,

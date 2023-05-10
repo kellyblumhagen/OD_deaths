@@ -1,0 +1,358 @@
+﻿State,Opioid_Overdose_Death_Rate,All_Drug_Overdose_Death_Rate,Year,Region
+Alabama,6.1,15.7,2015,Southeast
+Alabama,7.5,16.2,2016,Southeast
+Alabama,9,18,2017,Southeast
+Alabama,8.3,16.6,2018,Southeast
+Alabama,8.9,16.3,2019,Southeast
+Alabama,13.3,22.3,2020,Southeast
+Alabama,21.2,30.1,2021,Southeast
+Alaska,11,16,2015,West
+Alaska,12.5,16.8,2016,West
+Alaska,13.9,20.2,2017,West
+Alaska,8.8,14.6,2018,West
+Alaska,10.9,17.8,2019,West
+Alaska,15.2,22,2020,West
+Alaska,27.6,35.6,2021,West
+Arizona,10.2,19,2015,Southwest
+Arizona,11.4,20.3,2016,Southwest
+Arizona,13.5,22.2,2017,Southwest
+Arizona,15.9,23.8,2018,Southwest
+Arizona,18.4,26.8,2019,Southwest
+Arizona,26.8,35.8,2020,Southwest
+Arizona,28.8,38.7,2021,Southwest
+Arkansas,7.2,13.8,2015,Southwest
+Arkansas,5.9,14,2016,Southwest
+Arkansas,6.5,15.5,2017,Southwest
+Arkansas,7.4,15.7,2018,Southwest
+Arkansas,7,13.5,2019,Southwest
+Arkansas,9.9,19.1,2020,Southwest
+Arkansas,13.7,22.3,2021,Southwest
+California,4.9,11.3,2015,West
+California,4.9,11.2,2016,West
+California,5.3,11.7,2017,West
+California,5.8,12.8,2018,West
+California,7.9,15,2019,West
+California,13.7,21.8,2020,West
+California,17.8,26.6,2021,West
+Colorado,8.7,15.4,2015,West
+Colorado,9.5,16.6,2016,West
+Colorado,10,17.6,2017,West
+Colorado,9.5,16.8,2018,West
+Colorado,10.6,18,2019,West
+Colorado,16.4,24.9,2020,West
+Colorado,21.7,31.4,2021,West
+Connecticut,19.2,22.1,2015,Northeast
+Connecticut,24.5,27.4,2016,Northeast
+Connecticut,27.7,30.9,2017,Northeast
+Connecticut,27.5,30.7,2018,Northeast
+Connecticut,31.7,34.7,2019,Northeast
+Connecticut,35.9,39.1,2020,Northeast
+Connecticut,38.3,42.3,2021,Northeast
+Delaware,14.8,22,2015,Northeast
+Delaware,16.9,30.8,2016,Northeast
+Delaware,27.8,37,2017,Northeast
+Delaware,39.3,43.8,2018,Northeast
+Delaware,43,48,2019,Northeast
+Delaware,43.9,47.3,2020,Northeast
+Delaware,48.1,54,2021,Northeast
+District of Columbia,14.5,18.6,2015,Southeast
+District of Columbia,30,38.8,2016,Southeast
+District of Columbia,34.7,44,2017,Southeast
+District of Columbia,26.7,35.4,2018,Southeast
+District of Columbia,33.7,43.2,2019,Southeast
+District of Columbia,45.3,58.1,2020,Southeast
+District of Columbia,48.9,63.6,2021,Southeast
+Florida,9.4,16.2,2015,Southeast
+Florida,14.4,23.7,2016,Southeast
+Florida,16.3,25.1,2017,Southeast
+Florida,15.8,22.8,2018,Southeast
+Florida,18.7,25.5,2019,Southeast
+Florida,26.9,35,2020,Southeast
+Florida,28.9,37.5,2021,Southeast
+Georgia,8.4,12.7,2015,Southeast
+Georgia,8.8,13.3,2016,Southeast
+Georgia,9.7,14.7,2017,Southeast
+Georgia,8.3,13.2,2018,Southeast
+Georgia,8.2,13.1,2019,Southeast
+Georgia,12.4,18,2020,Southeast
+Georgia,17.1,23.5,2021,Southeast
+Hawaii,4.1,11.3,2015,West
+Hawaii,5.2,12.8,2016,West
+Hawaii,3.4,13.8,2017,West
+Hawaii,4.1,14.3,2018,West
+Hawaii,3.5,15.9,2019,West
+Hawaii,5.3,18.3,2020,West
+Hawaii,6.1,17.3,2021,West
+Idaho,6,14.2,2015,West
+Idaho,7.4,15.2,2016,West
+Idaho,6.2,14.4,2017,West
+Idaho,7.1,14.6,2018,West
+Idaho,7.6,15.1,2019,West
+Idaho,8.9,15.9,2020,West
+Idaho,12.8,19,2021,West
+Illinois,10.7,14.1,2015,Midwest
+Illinois,15.3,18.9,2016,Midwest
+Illinois,17.2,21.6,2017,Midwest
+Illinois,17,21.3,2018,Midwest
+Illinois,17.5,21.9,2019,Midwest
+Illinois,23.4,28.1,2020,Midwest
+Illinois,23.7,29,2021,Midwest
+Indiana,8.5,19.5,2015,Midwest
+Indiana,12.6,24,2016,Midwest
+Indiana,18.8,29.4,2017,Midwest
+Indiana,17.5,25.6,2018,Midwest
+Indiana,19.9,26.6,2019,Midwest
+Indiana,29.9,36.7,2020,Midwest
+Indiana,34.2,43,2021,Midwest
+Iowa,5.8,10.3,2015,Midwest
+Iowa,6.2,10.6,2016,Midwest
+Iowa,6.9,11.5,2017,Midwest
+Iowa,4.8,9.6,2018,Midwest
+Iowa,5.4,11.5,2019,Midwest
+Iowa,7.6,14.3,2020,Midwest
+Iowa,8.6,15.3,2021,Midwest
+Kansas,5.4,11.8,2015,Midwest
+Kansas,5.1,11.1,2016,Midwest
+Kansas,5.1,11.8,2017,Midwest
+Kansas,5.7,12.4,2018,Midwest
+Kansas,6.7,14.3,2019,Midwest
+Kansas,9.4,17.4,2020,Midwest
+Kansas,15.7,24.3,2021,Midwest
+Kentucky,21,29.9,2015,Southeast
+Kentucky,23.6,33.5,2016,Southeast
+Kentucky,27.9,37.2,2017,Southeast
+Kentucky,23.4,30.9,2018,Southeast
+Kentucky,24.6,32.5,2019,Southeast
+Kentucky,40.2,49.2,2020,Southeast
+Kentucky,44.8,55.6,2021,Southeast
+Louisiana,6.3,19,2015,Southeast
+Louisiana,7.7,21.8,2016,Southeast
+Louisiana,9.3,24.5,2017,Southeast
+Louisiana,10,25.4,2018,Southeast
+Louisiana,12.6,28.3,2019,Southeast
+Louisiana,21.5,42.7,2020,Southeast
+Louisiana,30.5,55.9,2021,Southeast
+Maine,19.3,21.2,2015,Northeast
+Maine,25.2,28.7,2016,Northeast
+Maine,29.9,34.4,2017,Northeast
+Maine,23.4,27.9,2018,Northeast
+Maine,26.4,29.9,2019,Northeast
+Maine,34,39.7,2020,Northeast
+Maine,42.4,47.1,2021,Northeast
+Maryland,17.7,20.9,2015,Northeast
+Maryland,29.7,33.2,2016,Northeast
+Maryland,32.2,36.3,2017,Northeast
+Maryland,33.7,37.2,2018,Northeast
+Maryland,34,38.2,2019,Northeast
+Maryland,40.4,44.6,2020,Northeast
+Maryland,38.5,42.8,2021,Northeast
+Massachusetts,23.3,25.7,2015,Northeast
+Massachusetts,29.7,33,2016,Northeast
+Massachusetts,28.2,31.8,2017,Northeast
+Massachusetts,29.3,32.8,2018,Northeast
+Massachusetts,28.9,32.1,2019,Northeast
+Massachusetts,30.6,33.9,2020,Northeast
+Massachusetts,32.5,36.8,2021,Northeast
+Michigan,13.6,20.4,2015,Midwest
+Michigan,18.5,24.4,2016,Midwest
+Michigan,21.2,27.8,2017,Midwest
+Michigan,20.8,26.6,2018,Midwest
+Michigan,18.5,24.4,2019,Midwest
+Michigan,22.9,28.6,2020,Midwest
+Michigan,26,31.5,2021,Midwest
+Minnesota,6.2,10.6,2015,Midwest
+Minnesota,7.4,12.5,2016,Midwest
+Minnesota,7.8,13.3,2017,Midwest
+Minnesota,6.3,11.5,2018,Midwest
+Minnesota,7.8,14.2,2019,Midwest
+Minnesota,12.5,19,2020,Midwest
+Minnesota,17.9,24.5,2021,Midwest
+Mississippi,5.3,12.3,2015,Southeast
+Mississippi,6.2,12.1,2016,Southeast
+Mississippi,6.4,12.2,2017,Southeast
+Mississippi,6.1,10.8,2018,Southeast
+Mississippi,8.5,13.6,2019,Southeast
+Mississippi,14.6,21.1,2020,Southeast
+Mississippi,20.3,28.4,2021,Southeast
+Missouri,11.7,17.9,2015,Midwest
+Missouri,15.9,23.6,2016,Midwest
+Missouri,16.5,23.4,2017,Midwest
+Missouri,19.6,27.5,2018,Midwest
+Missouri,18.8,26.9,2019,Midwest
+Missouri,23.8,32.1,2020,Midwest
+Missouri,27.1,36.5,2021,Midwest
+Montana,5,13.8,2015,West
+Montana,4.2,11.7,2016,West
+Montana,3.6,11.7,2017,West
+Montana,6.2,12.2,2018,West
+Montana,7.2,14.1,2019,West
+Montana,8.6,15.6,2020,West
+Montana,11.1,19.5,2021,West
+Nebraska,3.1,6.9,2015,Midwest
+Nebraska,2.4,6.4,2016,Midwest
+Nebraska,3.1,8.1,2017,Midwest
+Nebraska,3.3,7.4,2018,Midwest
+Nebraska,3.6,8.7,2019,Midwest
+Nebraska,5.3,11.3,2020,Midwest
+Nebraska,6,11.4,2021,Midwest
+Nevada,13.8,20.4,2015,West
+Nevada,13.3,21.7,2016,West
+Nevada,13.3,21.6,2017,West
+Nevada,11.5,21.2,2018,West
+Nevada,11.7,20.1,2019,West
+Nevada,17.8,26,2020,West
+Nevada,18.9,29.2,2021,West
+New Hampshire,31.3,34.3,2015,Northeast
+New Hampshire,35.8,39,2016,Northeast
+New Hampshire,34,37,2017,Northeast
+New Hampshire,33.1,35.8,2018,Northeast
+New Hampshire,29.1,32,2019,Northeast
+New Hampshire,26.9,30.3,2020,Northeast
+New Hampshire,28.4,32.3,2021,Northeast
+New Jersey,9.8,16.3,2015,Northeast
+New Jersey,16,23.2,2016,Northeast
+New Jersey,22,30,2017,Northeast
+New Jersey,29.7,33.1,2018,Northeast
+New Jersey,28.4,31.7,2019,Northeast
+New Jersey,28.9,32.1,2020,Northeast
+New Jersey,28.6,32.4,2021,Northeast
+New Mexico,17.9,25.3,2015,Southwest
+New Mexico,17.5,25.2,2016,Southwest
+New Mexico,16.7,24.8,2017,Southwest
+New Mexico,16.7,26.7,2018,Southwest
+New Mexico,20,30.2,2019,Southwest
+New Mexico,26.9,39,2020,Southwest
+New Mexico,37.2,51.6,2021,Southwest
+New York,10.8,13.6,2015,Northeast
+New York,15.1,18,2016,Northeast
+New York,16.1,19.4,2017,Northeast
+New York,15.1,18.4,2018,Northeast
+New York,14.9,18.2,2019,Northeast
+New York,21.8,25.4,2020,Northeast
+New York,24.5,28.7,2021,Northeast
+North Carolina,11.9,15.8,2015,Southeast
+North Carolina,15.4,19.7,2016,Southeast
+North Carolina,19.8,24.1,2017,Southeast
+North Carolina,17.9,22.4,2018,Southeast
+North Carolina,18.1,22.3,2019,Southeast
+North Carolina,26.2,30.9,2020,Southeast
+North Carolina,33.3,39.2,2021,Southeast
+North Dakota,4.8,8.6,2015,Midwest
+North Dakota,7.6,10.6,2016,Midwest
+North Dakota,4.8,9.2,2017,Midwest
+North Dakota,5.2,10.2,2018,Midwest
+North Dakota,5.9,11.4,2019,Midwest
+North Dakota,9.6,15.6,2020,Midwest
+North Dakota,10.2,17.2,2021,Midwest
+Ohio,24.7,29.9,2015,Midwest
+Ohio,32.9,39.1,2016,Midwest
+Ohio,39.2,46.3,2017,Midwest
+Ohio,29.6,35.9,2018,Midwest
+Ohio,31.5,38.3,2019,Midwest
+Ohio,40.1,47.2,2020,Midwest
+Ohio,40.1,48.1,2021,Midwest
+Oklahoma,11.2,19,2015,Southwest
+Oklahoma,11.6,21.5,2016,Southwest
+Oklahoma,10.2,20.1,2017,Southwest
+Oklahoma,7.8,18.4,2018,Southwest
+Oklahoma,6.9,16.7,2019,Southwest
+Oklahoma,8.3,19.4,2020,Southwest
+Oklahoma,12.1,24.4,2021,Southwest
+Oregon,7.9,12,2015,West
+Oregon,7.6,11.9,2016,West
+Oregon,8.1,12.4,2017,West
+Oregon,8,12.6,2018,West
+Oregon,7.6,14,2019,West
+Oregon,11.9,18.7,2020,West
+Oregon,18.1,26.8,2021,West
+Pennsylvania,11.2,26.3,2015,Northeast
+Pennsylvania,18.5,37.9,2016,Northeast
+Pennsylvania,21.2,44.3,2017,Northeast
+Pennsylvania,23.8,36.1,2018,Northeast
+Pennsylvania,25.1,35.6,2019,Northeast
+Pennsylvania,32.4,42.4,2020,Northeast
+Pennsylvania,32.8,43.2,2021,Northeast
+Rhode Island,23.5,28.2,2015,Northeast
+Rhode Island,26.7,30.8,2016,Northeast
+Rhode Island,26.9,31,2017,Northeast
+Rhode Island,25.9,30.1,2018,Northeast
+Rhode Island,23.3,29.5,2019,Northeast
+Rhode Island,32,38.2,2020,Northeast
+Rhode Island,35.9,41.7,2021,Northeast
+South Carolina,11.4,15.7,2015,Southeast
+South Carolina,13.1,18.1,2016,Southeast
+South Carolina,15.5,20.5,2017,Southeast
+South Carolina,17.1,22.6,2018,Southeast
+South Carolina,17.6,22.7,2019,Southeast
+South Carolina,28.6,34.9,2020,Southeast
+South Carolina,35,42.8,2021,Southeast
+South Dakota,3.5,8.4,2015,Midwest
+South Dakota,5,8.4,2016,Midwest
+South Dakota,4,8.5,2017,Midwest
+South Dakota,3.5,6.9,2018,Midwest
+South Dakota,4.5,10.5,2019,Midwest
+South Dakota,5.9,10.3,2020,Midwest
+South Dakota,5.7,12.6,2021,Midwest
+Tennessee,16,22.2,2015,Southeast
+Tennessee,18.1,24.5,2016,Southeast
+Tennessee,19.3,26.6,2017,Southeast
+Tennessee,19.9,27.5,2018,Southeast
+Tennessee,23.4,31.2,2019,Southeast
+Tennessee,36.7,45.6,2020,Southeast
+Tennessee,45.5,56.6,2021,Southeast
+Texas,4.7,9.4,2015,Southwest
+Texas,4.9,10.1,2016,Southwest
+Texas,5.1,10.5,2017,Southwest
+Texas,4.8,10.4,2018,Southwest
+Texas,5.1,10.8,2019,Southwest
+Texas,7.2,14.1,2020,Southwest
+Texas,9.4,16.8,2021,Southwest
+Utah,15.9,23.4,2015,West
+Utah,16.4,22.4,2016,West
+Utah,15.5,22.3,2017,West
+Utah,14.8,21.2,2018,West
+Utah,13.3,18.9,2019,West
+Utah,14.7,20.5,2020,West
+Utah,14.1,21.1,2021,West
+Vermont,13.4,16.7,2015,Northeast
+Vermont,18.4,22.2,2016,Northeast
+Vermont,20,23.2,2017,Northeast
+Vermont,22.8,26.6,2018,Northeast
+Vermont,20.7,23.8,2019,Northeast
+Vermont,27.4,32.9,2020,Northeast
+Vermont,37.4,42.3,2021,Northeast
+Virginia,9.9,12.4,2015,Southeast
+Virginia,13.5,16.7,2016,Southeast
+Virginia,14.8,17.9,2017,Southeast
+Virginia,14.3,17.1,2018,Southeast
+Virginia,15.1,18.3,2019,Southeast
+Virginia,22.7,26.6,2020,Southeast
+Virginia,26,30.5,2021,Southeast
+Washington,9.3,14.7,2015,West
+Washington,9.4,14.5,2016,West
+Washington,9.6,15.2,2017,West
+Washington,9.4,14.8,2018,West
+Washington,10.5,15.8,2019,West
+Washington,15.4,22,2020,West
+Washington,20.5,28.1,2021,West
+West Virginia,36,41.5,2015,Southeast
+West Virginia,43.4,52,2016,Southeast
+West Virginia,49.6,57.8,2017,Southeast
+West Virginia,42.4,51.5,2018,Southeast
+West Virginia,41.4,52.8,2019,Southeast
+West Virginia,70,81.4,2020,Southeast
+West Virginia,77.2,90.9,2021,Southeast
+Wisconsin,11.2,15.5,2015,Midwest
+Wisconsin,15.8,19.3,2016,Midwest
+Wisconsin,16.9,21.2,2017,Midwest
+Wisconsin,15.3,19.2,2018,Midwest
+Wisconsin,16.6,21.1,2019,Midwest
+Wisconsin,23,27.7,2020,Midwest
+Wisconsin,25.9,31.6,2021,Midwest
+Wyoming,7.9,16.4,2015,West
+Wyoming,8.7,17.6,2016,West
+Wyoming,8.7,12.2,2017,West
+Wyoming,6.8,11.1,2018,West
+Wyoming,8.3,14.1,2019,West
+Wyoming,10.6,17.4,2020,West
+Wyoming,12.4,18.9,2021,West
